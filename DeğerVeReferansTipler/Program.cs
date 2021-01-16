@@ -11,6 +11,7 @@ namespace DeğerVeReferansTipler
             int sayi2 = 30;
             sayi1 = sayi2;
             sayi2 = 65;
+
             Console.WriteLine(sayi1);
 
             int[] sayilar3 = new int[] { 10, 20, 30 };
