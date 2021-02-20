@@ -7,7 +7,11 @@ namespace GameProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.Write("Proje yarın doldurulacak");
+
+            Console.WriteLine("Proje yarın doldurulacak");
+
+            Console.WriteLine(" ");
+
         }
     }
 }
